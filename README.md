@@ -227,7 +227,7 @@ To work with this KiCAD project, you'll need the RetroStack libraries for KiCAD.
 
 ## Contributions
 
-A big thanks to Leslie Ayling, who has taken photographs of his original Jap-50 board, making this project even possible to reverse engineer.
+A big thank you to *Howard Bowe* for donating the Japanese Model 1 (Jap-20), and to *Leslie Ayling* for providing detailed photographs of his original Jap-50 board. Their contributions made it possible to reverse engineer and create such a detailed and accurate replica.
 
 ## Main TRS-80 Model 1 Repository
 

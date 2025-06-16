@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "TRS-80 Model I Rev HE11E011550")
-		(date "2025-06-14")
+		(date "2025-06-15")
 		(rev "E1A")
 		(company "RetroStack - Marcel Erz")
 		(comment 2 "Keyboard interface")
